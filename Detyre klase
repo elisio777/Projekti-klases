@@ -1,3 +1,5 @@
 Ky eshte projekti i pare
 Kryeni ndryshimet 
 ndryshim ejubi
+if ejubi not qeth:
+ print qeth ejubin
